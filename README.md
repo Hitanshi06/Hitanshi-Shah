@@ -20,7 +20,7 @@
 
 <h2 style="color: #4285F4;">Cloud Computing</h2>
 
-#### [Cloud Native User Management System on GCP](https://github.com/Manashree2612/webapp)
+#### [Cloud Native User Management System on GCP](https://github.com/Hitanshi06/Cloud-Native-User-Management-System-on-GCP.git)
 * **[Tech Stack]** - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
