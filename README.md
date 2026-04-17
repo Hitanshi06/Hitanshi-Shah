@@ -134,5 +134,5 @@
 
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mana9512/)](https://github.com/mana9512/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mana9512/)](https://github.com/Hitanshi06/) 
 
