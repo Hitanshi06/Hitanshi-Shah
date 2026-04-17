@@ -1,4 +1,4 @@
-<h1><img src='Manashreegithub.png' /></h1>
+<h1><img src='GitHub.png' /></h1>
 
 <h2>Greetings, fellow developers! </h2> <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="300"/>
 
